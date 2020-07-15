@@ -1,0 +1,4 @@
+name: EndermenNerf
+main: com.tikeb.endermennerf.EnderNerf
+version: 0.1
+commands:
